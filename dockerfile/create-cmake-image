@@ -1,0 +1,3 @@
+FROM registry.redhat.io/codeready-workspaces/stacks-cpp-rhel8@sha256:31ef0774342bc1dbcd91e3b85d68d7a28846500f04ace7a5dfa3116c0cedfeb1
+
+RUN dnf update && dnf install -y g++ cmake && dnf clean && rm -rf /tmp/* /var/tmp/*
