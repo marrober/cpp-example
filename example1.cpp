@@ -10,7 +10,7 @@ class TestClass {
 int main() {
     TestClass myTestClass;
 
-    myTestClass.aNumber = 100;
+    myTestClass.aNumber = 200;
     myTestClass.aString = "Mark";
 
     std::cout << myTestClass.aNumber << "\n";
