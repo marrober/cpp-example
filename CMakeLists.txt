@@ -1,7 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
 
 # set the project name
-project(Example1)
+project(example1)
 
 # add the executable
-add_executable(example example1.cpp)
+set(EXECUTABLE_OUTPUT_PATH "bin")
+add_executable(bin.out example1.cpp)
