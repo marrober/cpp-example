@@ -10,8 +10,8 @@ class TestClass {
 int main() {
     TestClass myTestClass;
 
-    myTestClass.aNumber = 60;
-    myTestClass.aString = "Owain";
+    myTestClass.aNumber = 10;
+    myTestClass.aString = "Mark";
 
     std::cout << myTestClass.aNumber << "\n";
     std::cout << myTestClass.aString << "\n";
