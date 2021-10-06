@@ -1,5 +1,5 @@
 A Simple C++ Example
-To join this project click here to create a workspace: [![Contribute](/images/crw-logo.png)](https://codeready-openshift-workspaces.apps.cluster-ghzdp.ghzdp.sandbox1554.opentlc.com/factory?url=https://github.com/marrober/cpp-example)
+To join this project click here to create a workspace: [![Contribute](/images/crw-logo.png)](https://codeready-openshift-workspaces.apps.cluster-dfbe.dfbe.sandbox1041.opentlc.com/factory?url=https://github.com/marrober/cpp-example)
 
 1. Start the workspace
 2. Add a SSH to the Git repository.
